@@ -1,4 +1,20 @@
-# Power-Bi--mobile-sales-data
+## 📌 Project Overview
+This project showcases a comprehensive **mobile sales data dashboard** built using **Microsoft Power BI**. It transforms raw sales data into actionable business intelligence, empowering analysts and stakeholders to draw insights around revenue performance, sales trends, regional performance, and product popularity.
+
+The dashboard illustrates real‑world analytical thinking and data storytelling — key for analyst roles such as Operations Analyst, Financial Analyst, Risk Analyst, Commercial Analyst, Investment Analyst, and Supply Chain Analyst.
+
+## 📈 Business Questions Answered
+- 🔹 What are the total sales and revenue trends over time?  
+- 🔹 Which cities or regions have the highest contribution to sales?  
+- 🔹 Which mobile brands or models are top performers?  
+- 🔹 How do sales patterns differ across months or quarters?
+
+## 🧠 Tools & Skills Demonstrated
+- **Power BI Desktop** for interactive dashboards  
+- **DAX calculations & measures** (KPIs, trend metrics)  
+- Data modeling and relationships  
+- Interactive visuals and filters (*slicers, charts, maps*)
+
 Mobile Sales Analysis Dashboard built using Microsoft Power BI. The dashboard provides insights into sales performance, transactions, customer ratings, payment methods, and geographic sales distribution across India.
 
 # 📊 Mobile Sales Analysis Dashboard – Power BI
